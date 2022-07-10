@@ -3,9 +3,9 @@ package TA05_13;
 import javax.swing.JOptionPane;
 
 public class mainApp {
-
+	
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// TODO Auto-generated method stub.
 		String numero1 = "";
 		String numero2 = "";
 		String signo = "";
